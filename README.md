@@ -71,7 +71,7 @@ footer{
         </ul>
     </div>
 
-    <div class="card">
+    <div class="card"> 
         <h2>My Hobbies</h2>
         <ul>
             <li>Reading Books</li>
